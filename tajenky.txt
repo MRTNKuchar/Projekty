@@ -1,0 +1,7 @@
+windows
+linux
+ubuntu
+kali
+mint
+macos
+ios
